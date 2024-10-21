@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/Jack-OC/Testimonials-Grid)
+- Live Site URL: (https://jack-oc.github.io/Testimonials-Grid/)
 
 ## My process
 
